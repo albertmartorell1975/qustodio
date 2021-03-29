@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Qustodio</string>
+
+
+    <string-array name="type_arrays">
+        <item>location</item>
+        <item>web</item>
+        <item>application</item>
+    </string-array>
+
+
+</resources>

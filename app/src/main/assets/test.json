@@ -1,0 +1,5004 @@
+{
+  "events": [
+    {
+      "timestamp": 1577866682,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867940,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868732,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871434,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872274,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870910,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867641,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871204,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869774,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866646,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869966,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871498,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868212,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871144,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869603,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869340,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872376,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867067,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868734,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871475,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867355,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871501,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872422,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869817,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871881,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865732,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865893,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866150,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872181,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866262,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866129,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870896,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867166,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868267,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868794,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871316,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868513,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865815,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866902,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870492,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867650,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867121,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869983,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869337,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869741,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869574,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866915,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870319,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867468,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871346,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872200,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867503,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868395,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871598,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868668,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872692,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870902,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869792,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870592,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869339,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871920,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866743,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870680,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868523,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869886,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866903,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871581,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870770,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868905,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871877,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870794,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869326,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868152,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870679,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868986,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867464,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869441,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866914,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871543,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868563,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865753,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872392,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868589,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867708,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867066,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868838,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866497,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866108,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872207,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870878,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871403,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867959,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870835,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872212,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866143,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868740,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865754,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871244,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870402,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871126,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866832,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869222,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868049,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872366,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868984,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870033,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867548,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869349,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867889,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865902,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865824,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869724,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866771,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866244,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869039,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870668,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867573,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866661,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871936,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869796,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868809,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866236,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871858,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866396,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869500,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869787,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872170,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871324,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870343,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872539,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871587,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868366,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872074,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868885,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867425,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871707,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869139,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869808,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866492,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870001,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866881,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868873,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872693,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867553,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867811,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872791,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866477,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869252,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868320,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867691,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868987,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872153,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869998,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871196,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869074,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867651,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872205,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872682,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867834,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870341,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871777,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866153,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867240,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867627,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870534,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867723,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867848,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872599,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871267,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866328,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866565,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868511,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868791,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868575,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871497,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870826,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870092,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869550,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868345,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870947,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871637,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865699,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869091,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869172,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872031,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867334,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870660,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867434,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871450,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871128,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867491,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866199,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871674,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871385,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868457,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871800,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870399,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872316,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869065,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871609,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868809,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868766,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869050,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872479,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871828,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871826,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867687,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868280,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870613,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867182,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870071,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867022,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869033,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867894,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868369,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870107,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868702,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870400,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870221,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870789,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868780,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866286,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872113,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866595,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867546,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867685,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869769,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868166,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868954,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867604,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868123,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872386,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870077,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869735,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866308,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867490,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871919,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869072,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866548,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869707,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867399,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867159,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866139,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865632,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868868,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871943,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866854,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868543,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867257,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871771,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871248,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871349,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872608,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872795,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868207,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869979,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867802,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866321,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868971,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865834,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872073,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869909,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870235,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870515,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866968,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871996,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870761,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868372,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872056,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869802,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870894,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872018,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868482,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872524,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866160,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869410,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867018,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870591,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870829,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865696,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866834,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869807,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865811,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865662,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867516,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870328,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868953,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866705,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868181,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866343,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866020,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868637,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866574,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870983,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867969,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866603,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868826,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868506,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870694,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871482,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872497,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869046,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869622,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867270,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870436,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867963,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868071,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869736,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866600,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867909,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868881,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866009,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870715,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869966,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870027,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868352,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866785,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867342,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866820,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867783,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870266,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866204,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866321,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870616,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871765,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867546,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867495,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872302,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868206,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868770,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869618,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866183,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867175,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871166,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870862,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866622,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872506,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872567,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871520,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866526,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871521,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865795,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866981,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870639,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871594,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869547,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869537,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871851,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872048,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865827,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871211,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869275,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872458,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871708,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866607,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870050,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868690,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871866,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870824,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869216,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870994,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865822,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865699,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868438,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871217,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866624,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866206,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872062,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872777,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866935,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867582,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872641,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872575,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870505,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868094,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871762,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868708,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872451,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866282,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866710,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870948,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870207,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871586,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869216,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866382,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869982,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867265,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866261,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866304,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872185,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870739,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869436,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872115,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868465,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866820,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868627,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868553,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867152,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868867,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869642,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868454,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869594,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872539,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871678,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869270,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872057,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871961,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865860,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871704,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871520,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867191,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867141,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866382,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869443,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867503,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866232,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871022,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872354,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872084,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870532,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866770,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872656,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872385,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871453,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868265,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869835,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869709,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866638,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867321,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871238,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870187,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866730,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870115,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869800,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869333,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871983,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866131,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869839,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872179,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868203,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867847,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870643,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871695,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865635,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867032,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870970,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866310,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866052,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871609,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871041,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871507,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866601,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868869,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870653,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867213,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868051,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871626,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868158,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870417,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866669,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867528,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870536,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869841,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867610,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872101,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871319,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872552,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870101,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867952,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866003,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871666,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871003,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869570,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865784,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867027,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868485,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871391,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871984,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871457,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866041,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871428,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866754,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869043,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870703,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871245,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866523,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866079,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871532,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866712,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868625,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872712,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871770,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867249,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868819,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866685,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866340,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872708,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872728,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868020,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869653,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868552,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868461,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868805,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869333,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866896,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868060,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867939,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866141,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871139,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870709,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869310,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869156,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870141,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870744,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865719,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867359,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870070,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871061,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867632,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868716,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866130,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868960,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871586,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872356,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867118,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871408,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870821,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872563,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871280,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869699,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870768,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869976,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872260,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865858,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872632,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868540,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867851,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867189,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871766,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871425,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870956,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869399,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870356,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872474,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868274,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868382,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871715,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872572,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871588,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870573,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871726,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869755,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869336,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872323,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869902,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867806,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867170,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872192,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870753,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868172,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870156,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869151,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866181,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871666,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870748,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867123,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871939,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868299,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870721,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872489,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865830,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867635,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871599,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868219,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868797,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866787,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869103,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872779,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871383,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866267,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871825,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866271,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868074,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868258,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871715,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870266,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872273,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868228,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865755,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870411,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867304,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869972,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866315,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870102,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866010,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871714,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867153,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865929,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872521,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867220,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868283,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865946,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868384,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866042,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871344,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867730,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866340,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869619,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867699,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869822,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871089,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869733,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866795,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869325,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867488,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868321,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866361,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865647,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872071,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865748,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869328,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868481,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868635,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871223,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871233,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868894,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866580,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867407,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866043,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868853,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871624,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872701,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867881,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872686,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872446,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871769,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868981,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872284,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870361,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872598,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871421,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869885,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870186,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872048,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870048,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869426,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866613,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865873,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868988,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872385,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866853,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872474,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867863,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867325,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867463,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869278,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866082,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871452,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867261,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872350,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871573,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869372,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868751,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872564,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871960,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870520,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867645,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872183,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868369,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871038,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866875,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868093,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866134,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869583,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869187,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869893,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867083,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870552,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866340,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867514,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871034,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867926,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871371,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871439,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868711,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868897,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872355,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868103,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866898,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870451,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866713,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865985,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869208,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869798,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867881,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870425,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865876,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871610,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872552,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870040,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872582,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865898,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870775,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871169,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870602,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870444,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867730,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871960,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870163,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872609,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866985,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869383,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872394,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867890,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866075,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868808,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870887,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867699,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872531,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866162,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871687,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869121,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867858,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870768,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869339,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872329,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867916,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865910,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872098,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869362,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870336,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868927,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869472,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868677,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872405,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870757,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867069,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868660,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872379,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867713,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867143,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869101,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871064,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869071,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865717,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869371,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872382,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867104,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870737,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868182,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870574,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867588,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867418,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869051,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869737,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870065,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867047,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872643,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866691,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871874,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868816,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872390,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867278,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868202,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870768,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870556,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872530,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872286,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868303,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866573,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868571,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869046,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867874,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868614,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867169,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869354,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867618,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868782,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868381,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866747,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869794,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868676,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872591,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865826,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867790,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867064,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867095,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865716,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871185,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869391,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872255,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869207,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867646,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870735,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867659,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868074,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870192,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866334,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869515,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871757,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865831,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867316,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868645,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872743,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870768,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869389,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868782,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867494,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871358,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870058,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868356,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866125,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865603,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871611,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868804,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866093,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866425,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869006,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870463,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869068,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871402,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871824,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869263,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869437,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870692,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872224,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869739,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868765,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870994,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869533,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868004,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867187,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867301,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869315,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869097,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869633,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871485,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869431,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866501,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870449,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866796,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871083,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867913,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868942,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865739,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867459,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871157,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865661,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870415,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868884,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871483,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868109,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865739,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867989,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868760,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866252,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872528,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867930,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867927,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872707,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871003,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872365,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866361,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870571,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866747,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869957,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866585,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869041,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867521,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867151,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866153,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872181,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872575,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866286,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866368,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868687,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870272,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868755,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870853,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871559,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872515,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868823,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867186,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867672,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869070,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867177,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871117,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870054,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868567,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870169,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866002,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866869,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868651,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870761,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871604,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866285,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870303,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869924,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865937,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867937,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870572,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866039,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872727,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868788,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871048,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870886,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865990,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869500,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867785,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868642,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869568,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868231,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871209,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868227,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868294,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868094,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866669,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868629,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870089,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577868942,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870370,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866855,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870051,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871984,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866014,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870708,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868937,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870306,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867200,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867374,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867990,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871069,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869250,
+      "user_id": 1,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870477,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871706,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865739,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577865622,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871222,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577870146,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867013,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866011,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870303,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868471,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866903,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867044,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867879,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866544,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867946,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865770,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867569,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868221,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577871765,
+      "user_id": 1,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870918,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866713,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866227,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866211,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577869104,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577871818,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872097,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867203,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577868412,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867403,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868322,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866594,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872360,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870965,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867486,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871511,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866378,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866368,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870790,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868102,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868132,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870740,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867620,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866780,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866400,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577869469,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577865961,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866527,
+      "user_id": 5,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869290,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577870270,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872278,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577872232,
+      "user_id": 3,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577869318,
+      "user_id": 3,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577872374,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577871687,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577872035,
+      "user_id": 4,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866105,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577870571,
+      "user_id": 5,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577868270,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867445,
+      "user_id": 5,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577867356,
+      "user_id": 2,
+      "type": "application"
+    },
+    {
+      "timestamp": 1577866668,
+      "user_id": 1,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867262,
+      "user_id": 2,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577867605,
+      "user_id": 4,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577866568,
+      "user_id": 2,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577867054,
+      "user_id": 4,
+      "type": "web"
+    },
+    {
+      "timestamp": 1577866150,
+      "user_id": 3,
+      "type": "location"
+    },
+    {
+      "timestamp": 1577865718,
+      "user_id": 5,
+      "type": "application"
+    }
+  ]
+}
